@@ -4,3 +4,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tapris)](https://solved.ac/tapris/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tapris&theme=warm)
+
+https://taprisps.blogspot.com
